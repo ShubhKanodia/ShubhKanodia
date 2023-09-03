@@ -2,7 +2,6 @@
 <h3 align="center">A developer who loves building Apps</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-
 - 👯 I’m looking to collaborate on **Flutter, AI/ML projects**
 
 - 💬 Ask me about **Flutter,Firebase, and Tech**
