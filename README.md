@@ -22,7 +22,6 @@
 
 [![An image of @shubhkanodia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhkanodia)](https://holopin.io/@shubhkanodia)
 
-
 <hr/>
 
 <h3 align="left">Languages and Tools:</h3>
