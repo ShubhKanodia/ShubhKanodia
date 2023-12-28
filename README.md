@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/shubh kanodia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubh kanodia" height="30" width="40" /></a>
 <a href="https://kaggle.com/shubh kanodia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubh kanodia" height="30" width="40" /></a>
-  
 <a href="https://instagram.com/shubh_12004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubh_12004" height="30" width="40" /></a>
 
 
