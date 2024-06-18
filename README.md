@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Flutter, AI/ML projects**
 
-- 💬 Ask me about **Flutter, Development and Tech**
+- 💬 Ask me about **Flutter,Development and Tech**
 
 - 📫 How to reach me **shubhkanodia12@gmail.com**
 
@@ -70,9 +70,9 @@
     <td align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a></td>
     <td align="center"><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="35"/></a></td>
+    <td align="center"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="35"/></a></td>
+    <td align="center"><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="35"/></a></td>
   </tr>
 </table>
 </p>
@@ -81,4 +81,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhkanodia&show_icons=true&locale=en&layout=compact" alt="shubhkanodia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhkanodia&show_icons=true&locale=en" alt="shubhkanodia" /></p>
+
+# 🚀 Developer Quote of the Day
+
+<div align="left" style="margin: 20px 0;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontall&theme=dark&border=true" alt="Dev Quote" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+</div>
+
 
