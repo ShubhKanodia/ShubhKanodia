@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-- 👯 I’m looking to collaborate on **Flutter, AI/ML projects**
+- 👯 I’m looking to collaborate on **Flutter, AI/ML, and Distributed Systems projects**
 
-- 💬 Ask me about **Flutter,Development and Tech**
+- 💬 Ask me about **Flutter,Systems and Tech**
 
 - 📫 How to reach me **shubhkanodia12@gmail.com**
 
