@@ -84,7 +84,7 @@
 # 🚀 Developer Quote of the Day
 
 <div align="left" style="margin: 20px 0;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontall&theme=dracula" alt="Dev Quote" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Dev Quote" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
 </div>
 
 
